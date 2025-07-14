@@ -1,0 +1,25 @@
+# -------------------------
+# 🧠 Core Dependencies
+# -------------------------
+
+streamlit==1.35.0             # Web app framework used to build the SmartLead+ UI
+pandas==2.2.2                 # Data manipulation and CSV processing
+scikit-learn==1.4.2           # For RandomForest model, train-test split, evaluation, etc.
+joblib==1.4.2                 # Used to save/load trained ML models
+
+# -------------------------
+# 📊 Data Visualization
+# -------------------------
+
+matplotlib==3.8.4             # For feature importance plots in notebook
+seaborn==0.13.2               # For prettier charts and color palettes
+
+# -------------------------
+# (Optional)
+# These libraries are helpful if needed for domain/email processing
+# -------------------------
+
+# tldextract==5.1.1          # Extracts domain names (e.g. used for 'email-company match' feature)
+
+# numpy==1.26.4              # Underlying math library used by pandas/sklearn (included automatically)
+

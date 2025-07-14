@@ -1,0 +1,101 @@
+Name,Title,Company,Email,Website,Industry,CompanySize,Revenue,BusinessType,ProductCategory,EmailLength,WebsiteHTTPS,MissingFields,HasDisposableDomain,TLD,EmailCompanyMatch
+Farah Naaz,CEO,ClickBait Inc.,,https://tempmail.co,FinTech,20,1M-5M,B2B,,0,1,2,0,co,0
+Simran Kaur,Recruiter,SpamForge,simrankaur@gmail.com,http://gmail.site,HR,20,,B2C,Analytics,20,0,1,0,site,0
+Aarav Mehta,Developer,NopeLabs,aaravmehta@protonmail.com,https://protonmail.xyz,HealthTech,20,1M-5M,B2B,CRM,25,1,0,0,xyz,0
+Manav Saxena,CEO,HexTech,manavsaxena@globex.com,https://globex.com,HR,5,>10M,B2B2C,,22,1,1,0,com,0
+Aditya Khanna,CEO,ClickBait Inc.,adityakhanna@tempmail.com,http://tempmail.co,HealthTech,5,1M-5M,Unknown,HR Software,25,0,0,1,co,0
+Ankit Joshi,Analyst,Acme Corp,ankitjoshi@initech.io,https://initech.in,Unknown,500,<1M,B2C,,21,1,1,0,in,0
+Siddharth Menon,Manager,SketchySoft,,http://yahoo.co,Unknown,50,<1M,B2B,HR Software,0,0,1,0,co,0
+Om Prakash,Manager,Acme Corp,omprakash@acme.com,https://acme.co,Marketing,500,>10M,B2B2C,AI Tools,18,1,0,0,co,1
+Dev Patel,Analyst,HexTech,devpatel@omni.biz,https://omni.site,HealthTech,20,1M-5M,Unknown,CRM,17,1,0,0,site,0
+Riya Desai,Recruiter,NopeLabs,,http://yahoo.xyz,Marketing,100,,B2B2C,,0,0,3,0,xyz,0
+Aalia Bakshi,Developer,ClickBait Inc.,aaliabakshi@yahoo.com,https://yahoo.site,Unknown,50,<1M,Unknown,AI Tools,21,1,0,0,site,0
+Aalia Bakshi,Analyst,SketchySoft,aaliabakshi@gmail.com,http://gmail.in,Unknown,50,,B2C,AI Tools,21,0,1,0,in,0
+Kavya Menon,Developer,Ghostify,kavyamenon@outlook.com,https://outlook.org,SaaS,5,5M-10M,B2C,CRM,22,1,0,0,org,0
+Neha Bansal,Recruiter,ClickBait Inc.,nehabansal@protonmail.com,http://protonmail.xyz,HR,20,1M-5M,B2C,HR Software,25,0,0,0,xyz,0
+Simran Kaur,Developer,Omni,simrankaur@protonmail.com,http://protonmail.co,Unknown,50,>10M,Unknown,,25,0,1,0,co,0
+Rohit Sharma,CEO,Acme Corp,,,HR,20,<1M,B2B,AI Tools,0,0,2,0,unknown,0
+Aisha Qureshi,Analyst,ClickBait Inc.,aishaqureshi@gmail.com,https://gmail.in,Unknown,100,1M-5M,B2C,,22,1,1,0,in,0
+Ravi Singh,Recruiter,Globex,,http://acme.com,Unknown,100,5M-10M,Unknown,Analytics,0,0,1,0,com,0
+Ibrahim Khan,Manager,ClickBait Inc.,ibrahimkhan@tempmail.com,https://tempmail.xyz,SaaS,20,1M-5M,Unknown,AI Tools,24,1,0,1,xyz,0
+Meera Iyer,CEO,ClickBait Inc.,meeraiyer@hextech.org,http://hextech.site,SaaS,500,,B2B,AI Tools,21,0,1,0,site,0
+Simran Kaur,Recruiter,Globex,simrankaur@tempmail.com,https://tempmail.in,SaaS,100,5M-10M,B2B2C,Analytics,23,1,0,1,in,0
+Bhavna Shah,Analyst,Initech,bhavnashah@10minutemail.com,,FinTech,5,,B2B,HR Software,27,0,2,1,unknown,0
+Anil Kapoor,CEO,Omni,anilkapoor@10minutemail.com,http://10minutemail.com,FinTech,5,,B2C,Analytics,27,0,1,1,com,0
+Meera Iyer,Analyst,HexTech,meeraiyer@outlook.com,http://outlook.com,Marketing,500,,B2B2C,HR Software,21,0,1,0,com,0
+Meera Iyer,CEO,SketchySoft,meeraiyer@omni.biz,https://omni.in,Marketing,50,<1M,Unknown,,18,1,1,0,in,0
+Rohit Sharma,Manager,Omni,rohitsharma@acme.com,https://acme.site,FinTech,50,<1M,B2B2C,HR Software,20,1,0,0,site,0
+Sameer Deshmukh,CEO,SketchySoft,sameerdeshmukh@outlook.com,http://outlook.co,Unknown,250,5M-10M,B2C,HR Software,26,0,0,0,co,0
+Bhavna Shah,Developer,NopeLabs,bhavnashah@globex.com,http://globex.org,Unknown,50,1M-5M,Unknown,HR Software,21,0,0,0,org,0
+Neha Bansal,Manager,Globex,nehabansal@globex.com,http://globex.com,HealthTech,20,5M-10M,Unknown,,21,0,1,0,com,1
+Tanya Bhatt,Manager,ClickBait Inc.,tanyabhatt@protonmail.com,,HealthTech,250,,Unknown,AI Tools,25,0,2,0,unknown,0
+Rajiv Nair,Analyst,Acme Corp,rajivnair@acme.com,http://acme.co,Unknown,5,5M-10M,Unknown,,18,0,1,0,co,1
+Meera Iyer,Recruiter,NopeLabs,meeraiyer@10minutemail.com,http://10minutemail.xyz,FinTech,500,5M-10M,B2C,HR Software,26,0,0,1,xyz,0
+Siddharth Menon,Manager,Ghostify,siddharthmenon@hextech.org,http://hextech.in,Marketing,50,5M-10M,B2C,CRM,26,0,0,0,in,0
+Priya Nambiar,CEO,ClickBait Inc.,priyanambiar@globex.com,https://globex.org,Unknown,250,5M-10M,B2B,HR Software,23,1,0,0,org,0
+Dev Patel,Recruiter,Ghostify,devpatel@mailinator.com,https://mailinator.site,HealthTech,500,5M-10M,B2B,Analytics,23,1,0,1,site,0
+Rajiv Nair,Developer,Globex,rajivnair@tempmail.com,http://tempmail.site,HealthTech,100,<1M,B2B2C,CRM,22,0,0,1,site,0
+Sneha Reddy,Recruiter,Globex,snehareddy@initech.io,https://initech.xyz,HR,20,1M-5M,Unknown,AI Tools,21,1,0,0,xyz,0
+Bhavna Shah,Developer,Ghostify,bhavnashah@globex.com,http://globex.org,Marketing,250,,Unknown,Analytics,21,0,1,0,org,0
+Ravi Singh,Developer,NopeLabs,ravisingh@yahoo.com,https://yahoo.com,HR,500,,B2B,AI Tools,19,1,1,0,com,0
+Aditya Khanna,Recruiter,NopeLabs,adityakhanna@tempmail.com,http://tempmail.com,Marketing,250,<1M,Unknown,,25,0,1,1,com,0
+Tina Roy,Manager,Globex,tinaroy@acme.com,http://acme.in,SaaS,100,1M-5M,Unknown,CRM,16,0,0,0,in,0
+Tanya Bhatt,Recruiter,Initech,tanyabhatt@10minutemail.com,https://10minutemail.xyz,Marketing,250,,Unknown,AI Tools,27,1,1,1,xyz,0
+Dev Patel,Recruiter,SpamForge,devpatel@yahoo.com,https://yahoo.org,Unknown,20,5M-10M,B2B,HR Software,18,1,0,0,org,0
+Ayaan Iqbal,Manager,ClickBait Inc.,ayaaniqbal@10minutemail.com,http://10minutemail.in,Marketing,500,1M-5M,B2B,Analytics,27,0,0,1,in,0
+Harshita Agarwal,Analyst,Ghostify,harshitaagarwal@acme.com,,HR,500,<1M,Unknown,Analytics,24,0,1,0,unknown,0
+Parul Saxena,Recruiter,Globex,parulsaxena@omni.biz,http://omni.site,Marketing,20,5M-10M,Unknown,CRM,20,0,0,0,site,0
+Ananya Ghosh,CEO,NopeLabs,ananyaghosh@hextech.org,http://hextech.in,Marketing,250,,B2B,Analytics,23,0,1,0,in,0
+Ishita Sen,Recruiter,SketchySoft,,http://omni.org,Marketing,50,5M-10M,B2B2C,Analytics,0,0,1,0,org,0
+Sana Kapoor,CEO,Omni,sanakapoor@tempmail.com,http://tempmail.org,Unknown,5,<1M,B2C,AI Tools,23,0,0,1,org,0
+Meera Iyer,Developer,NopeLabs,meeraiyer@hextech.org,http://hextech.co,HR,20,>10M,B2B2C,AI Tools,21,0,0,0,co,0
+Sameer Deshmukh,Analyst,ClickBait Inc.,sameerdeshmukh@10minutemail.com,http://10minutemail.org,HR,5,5M-10M,Unknown,Analytics,31,0,0,1,org,0
+Ruchi Taneja,Analyst,SpamForge,ruchitaneja@mailinator.com,https://mailinator.co,Unknown,250,<1M,B2B,HR Software,26,1,0,1,co,0
+Rohit Sharma,Recruiter,Omni,rohitsharma@yahoo.com,http://yahoo.org,Marketing,100,<1M,B2B2C,Analytics,21,0,0,0,org,0
+Aalia Bakshi,Developer,Omni,,https://yahoo.org,Marketing,100,,B2B2C,AI Tools,0,1,2,0,org,0
+Dhruv Arora,Developer,SpamForge,dhruvarora@hextech.org,https://hextech.site,HealthTech,5,>10M,B2C,Analytics,22,1,0,0,site,0
+Aisha Qureshi,Manager,SketchySoft,aishaqureshi@outlook.com,https://outlook.co,HR,5,,B2B,AI Tools,24,1,1,0,co,0
+Parul Saxena,Developer,SpamForge,parulsaxena@protonmail.com,https://protonmail.xyz,Marketing,5,<1M,B2C,Analytics,26,1,0,0,xyz,0
+Ruchi Taneja,Developer,Acme Corp,ruchitaneja@hextech.org,https://hextech.site,Marketing,500,,B2B2C,Analytics,23,1,1,0,site,0
+Tanya Bhatt,Developer,SpamForge,tanyabhatt@initech.io,http://initech.com,FinTech,20,>10M,B2B2C,CRM,21,0,0,0,com,0
+Trisha Paul,Analyst,NopeLabs,trishapaul@globex.com,http://globex.com,HealthTech,5,<1M,B2B2C,AI Tools,21,0,0,0,com,0
+Karan Verma,Manager,Ghostify,karanverma@outlook.com,https://outlook.org,Marketing,100,5M-10M,B2B,HR Software,22,1,0,0,org,0
+Rohit Sharma,Developer,Globex,rohitsharma@hextech.org,http://hextech.com,FinTech,20,,B2B,AI Tools,23,0,1,0,com,0
+Zoya Mirza,Analyst,HexTech,,https://outlook.in,Marketing,100,5M-10M,Unknown,HR Software,0,1,1,0,in,0
+Deepak Raj,Manager,ClickBait Inc.,deepakraj@acme.com,http://acme.co,HealthTech,500,<1M,B2C,AI Tools,18,0,0,0,co,0
+Harshita Agarwal,Developer,Initech,harshitaagarwal@protonmail.com,,HealthTech,5,1M-5M,B2B2C,Analytics,30,0,1,0,unknown,0
+Dev Patel,Manager,HexTech,devpatel@yahoo.com,,SaaS,250,1M-5M,B2B2C,AI Tools,18,0,1,0,unknown,0
+Sneha Reddy,Developer,HexTech,snehareddy@protonmail.com,https://protonmail.site,Marketing,5,>10M,Unknown,HR Software,25,1,0,0,site,0
+Neha Bansal,CEO,HexTech,,https://tempmail.xyz,HR,50,<1M,B2C,,0,1,2,0,xyz,0
+Parul Saxena,Developer,SketchySoft,parulsaxena@outlook.com,http://outlook.com,Marketing,250,>10M,B2C,,23,0,1,0,com,0
+Neha Bansal,Manager,Initech,nehabansal@initech.io,https://initech.xyz,HealthTech,500,<1M,B2B2C,Analytics,21,1,0,0,xyz,1
+Ananya Ghosh,CEO,Omni,,http://tempmail.xyz,HealthTech,50,5M-10M,Unknown,,0,0,2,0,xyz,0
+Ayaan Iqbal,Recruiter,Initech,ayaaniqbal@omni.biz,http://omni.com,HR,50,,Unknown,CRM,19,0,1,0,com,0
+Rahul Choudhary,Manager,Initech,rahulchoudhary@protonmail.com,http://protonmail.xyz,SaaS,500,,B2C,HR Software,29,0,1,0,xyz,0
+Neha Bansal,Developer,SpamForge,nehabansal@mailinator.com,http://mailinator.xyz,Unknown,20,>10M,B2B2C,Analytics,25,0,0,1,xyz,0
+Meera Iyer,Manager,Initech,meeraiyer@gmail.com,https://gmail.in,FinTech,250,,B2B,HR Software,19,1,1,0,in,0
+Aisha Qureshi,Analyst,Omni,aishaqureshi@globex.com,https://globex.com,Unknown,50,,Unknown,AI Tools,23,1,1,0,com,0
+Aisha Qureshi,Analyst,Omni,aishaqureshi@gmail.com,https://gmail.xyz,HealthTech,20,1M-5M,Unknown,AI Tools,22,1,0,0,xyz,0
+Vikram Singh,Recruiter,Initech,vikramsingh@protonmail.com,https://protonmail.xyz,Unknown,500,1M-5M,B2B,AI Tools,26,1,0,0,xyz,0
+Karan Verma,Recruiter,Initech,karanverma@mailinator.com,https://mailinator.site,SaaS,500,1M-5M,B2C,CRM,25,1,0,1,site,0
+Aisha Qureshi,Recruiter,HexTech,,http://protonmail.xyz,HealthTech,500,,B2B2C,Analytics,0,0,2,0,xyz,0
+Rohit Sharma,Recruiter,SpamForge,rohitsharma@yahoo.com,https://yahoo.co,FinTech,500,<1M,B2B,CRM,21,1,0,0,co,0
+Sana Kapoor,Manager,Ghostify,sanakapoor@initech.io,https://initech.com,HealthTech,50,>10M,B2C,,21,1,1,0,com,0
+Nikita Rao,Recruiter,NopeLabs,nikitarao@10minutemail.com,https://10minutemail.com,HR,500,1M-5M,B2C,AI Tools,26,1,0,1,com,0
+Dev Patel,Analyst,Ghostify,devpatel@hextech.org,http://hextech.org,SaaS,100,5M-10M,B2B2C,Analytics,20,0,0,0,org,0
+Sneha Reddy,Developer,SpamForge,snehareddy@omni.biz,,FinTech,100,,B2B2C,HR Software,19,0,2,0,unknown,0
+Ananya Ghosh,Developer,SketchySoft,ananyaghosh@tempmail.com,http://tempmail.site,HR,500,>10M,B2C,,24,0,1,1,site,0
+Aditya Khanna,Developer,HexTech,adityakhanna@globex.com,http://globex.co,Unknown,5,<1M,Unknown,CRM,23,0,0,0,co,0
+Neha Bansal,Analyst,SketchySoft,nehabansal@initech.io,https://initech.co,FinTech,20,1M-5M,B2B2C,,21,1,1,0,co,0
+Ankit Joshi,Manager,SketchySoft,ankitjoshi@hextech.org,https://hextech.org,SaaS,100,<1M,B2C,Analytics,22,1,0,0,org,0
+Trisha Paul,Developer,ClickBait Inc.,trishapaul@omni.biz,https://omni.com,HR,5,>10M,B2B2C,,19,1,1,0,com,0
+Trisha Paul,Developer,ClickBait Inc.,trishapaul@yahoo.com,https://yahoo.in,SaaS,250,,B2C,CRM,20,1,1,0,in,0
+Chitra Joshi,Developer,SketchySoft,chitrajoshi@yahoo.com,,FinTech,5,<1M,Unknown,CRM,21,0,1,0,unknown,0
+Arjun Malhotra,Recruiter,Globex,arjunmalhotra@hextech.org,https://hextech.org,HR,500,1M-5M,B2B,Analytics,25,1,0,0,org,0
+Priya Nambiar,Developer,Ghostify,priyanambiar@protonmail.com,http://protonmail.org,Marketing,100,1M-5M,B2B,HR Software,27,0,0,0,org,0
+Manav Saxena,Manager,Ghostify,manavsaxena@omni.biz,http://omni.org,SaaS,100,<1M,B2B,CRM,20,0,0,0,org,0
+Arjun Malhotra,Developer,HexTech,arjunmalhotra@acme.com,,HR,20,1M-5M,B2C,,22,0,2,0,unknown,0
+Riya Desai,Manager,NopeLabs,riyadesai@gmail.com,http://gmail.org,SaaS,500,<1M,B2B,HR Software,19,0,0,0,org,0
+Vikram Singh,Analyst,Ghostify,vikramsingh@10minutemail.com,http://10minutemail.org,FinTech,500,>10M,B2B,CRM,28,0,0,1,org,0
+Anil Kapoor,Developer,HexTech,anilkapoor@mailinator.com,,HR,5,,Unknown,CRM,25,0,2,1,unknown,0
+Ananya Ghosh,CEO,Globex,ananyaghosh@yahoo.com,https://yahoo.com,Unknown,100,<1M,B2B2C,,21,1,1,0,com,0
